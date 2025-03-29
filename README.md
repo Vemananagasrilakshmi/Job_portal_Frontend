@@ -1,5 +1,5 @@
-FullStack Job Portal App
-This is a Full-Stack Job Portal Application built using the MERN (MongoDB, Express.js, React, Node.js) Stack. It enables users to register and search for jobs, while employers can post and manage job listings. The application features user authentication, role-based access control, and a responsive UI for a smooth user experience.
+ Job Portal App
+This is a Frontend-Stack Job Portal Application built using the MERN (MongoDB, Express.js, React, Node.js) Stack. It enables users to register and search for jobs, while employers can post and manage job listings. The application features user authentication, role-based access control, and a responsive UI for a smooth user experience.
 
 Features
 User Registration and Login
